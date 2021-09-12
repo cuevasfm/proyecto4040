@@ -40,7 +40,9 @@ Se creo el controlador ClietsController donde se utiliza el metodo index y para 
 
 Se creo la migración con los datos descritos en el apartado proyecto4040
 
+## Ruta Principal
 
+http://localhost:8000/clientes
 
 ## License
 
