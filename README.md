@@ -46,6 +46,10 @@ http://localhost:8000/clientes
 
 http://localhost:8000/clientes/create
 
+## Imagenes 
+
+<p align="center"><img src="https://dospuntas.com.mx/4040/1.png" width="600"></p>
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
