@@ -48,7 +48,6 @@ http://localhost:8000/clientes/create
 
 ## Imagenes 
 
-<p align="center"><img src="https://dospuntas.com.mx/4040/1.png" width="600"></p>
 <p align="center"><img src="https://dospuntas.com.mx/4040/2.png" width="600"></p>
 <p align="center"><img src="https://dospuntas.com.mx/4040/3.png" width="600"></p>
 <p align="center"><img src="https://dospuntas.com.mx/4040/4.png" width="600"></p>
