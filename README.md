@@ -44,6 +44,8 @@ Se creo la migración con los datos descritos en el apartado proyecto4040
 
 http://localhost:8000/clientes
 
+http://localhost:8000/clientes/create
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
